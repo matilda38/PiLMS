@@ -1,0 +1,101 @@
+[30-Oct-2016 17:22:22 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/ubuntu/workspace/public/pdfviewer.php on line 28
+[31-Oct-2016 02:15:27 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/public/upload/start_here.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/upload.php on line 93
+[31-Oct-2016 02:15:27 UTC] PHP Stack trace:
+[31-Oct-2016 02:15:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/upload.php:0
+[31-Oct-2016 02:15:27 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/public/upload.php:93
+[31-Oct-2016 02:15:27 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprvn3p3' to '/home/ubuntu/workspace/public/upload/start_here.html' in /home/ubuntu/workspace/public/upload.php on line 93
+[31-Oct-2016 02:15:27 UTC] PHP Stack trace:
+[31-Oct-2016 02:15:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/upload.php:0
+[31-Oct-2016 02:15:27 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/public/upload.php:93
+[31-Oct-2016 03:56:15 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/public/upload/start_here.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/upload.php on line 93
+[31-Oct-2016 03:56:15 UTC] PHP Stack trace:
+[31-Oct-2016 03:56:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/upload.php:0
+[31-Oct-2016 03:56:15 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/public/upload.php:93
+[31-Oct-2016 03:56:15 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpap7kLh' to '/home/ubuntu/workspace/public/upload/start_here.html' in /home/ubuntu/workspace/public/upload.php on line 93
+[31-Oct-2016 03:56:15 UTC] PHP Stack trace:
+[31-Oct-2016 03:56:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/upload.php:0
+[31-Oct-2016 03:56:15 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/public/upload.php:93
+[31-Oct-2016 03:58:36 UTC] PHP Warning:  move_uploaded_file(media/upload/start_here.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/upload.php on line 94
+[31-Oct-2016 03:58:36 UTC] PHP Stack trace:
+[31-Oct-2016 03:58:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/upload.php:0
+[31-Oct-2016 03:58:36 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/public/upload.php:94
+[31-Oct-2016 03:58:36 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHfOyS9' to 'media/upload/start_here.html' in /home/ubuntu/workspace/public/upload.php on line 94
+[31-Oct-2016 03:58:36 UTC] PHP Stack trace:
+[31-Oct-2016 03:58:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/upload.php:0
+[31-Oct-2016 03:58:36 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/public/upload.php:94
+[31-Oct-2016 03:59:43 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/public/upload/start_here.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/upload.php on line 93
+[31-Oct-2016 03:59:43 UTC] PHP Stack trace:
+[31-Oct-2016 03:59:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/upload.php:0
+[31-Oct-2016 03:59:43 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/public/upload.php:93
+[31-Oct-2016 03:59:43 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8bCMMo' to '/home/ubuntu/workspace/public/upload/start_here.html' in /home/ubuntu/workspace/public/upload.php on line 93
+[31-Oct-2016 03:59:43 UTC] PHP Stack trace:
+[31-Oct-2016 03:59:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/upload.php:0
+[31-Oct-2016 03:59:43 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/public/upload.php:93
+[31-Oct-2016 04:19:11 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/public/upload/start_here.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/upload.php on line 98
+[31-Oct-2016 04:19:11 UTC] PHP Stack trace:
+[31-Oct-2016 04:19:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/upload.php:0
+[31-Oct-2016 04:19:11 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/public/upload.php:98
+[31-Oct-2016 04:19:11 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAMkO9D' to '/home/ubuntu/workspace/public/upload/start_here.html' in /home/ubuntu/workspace/public/upload.php on line 98
+[31-Oct-2016 04:19:11 UTC] PHP Stack trace:
+[31-Oct-2016 04:19:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/upload.php:0
+[31-Oct-2016 04:19:11 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/public/upload.php:98
+[31-Oct-2016 04:19:58 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/public/upload/start_here.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/upload.php on line 98
+[31-Oct-2016 04:19:58 UTC] PHP Stack trace:
+[31-Oct-2016 04:19:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/upload.php:0
+[31-Oct-2016 04:19:58 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/public/upload.php:98
+[31-Oct-2016 04:19:58 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php3ES1PO' to '/home/ubuntu/workspace/public/upload/start_here.html' in /home/ubuntu/workspace/public/upload.php on line 98
+[31-Oct-2016 04:19:58 UTC] PHP Stack trace:
+[31-Oct-2016 04:19:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/upload.php:0
+[31-Oct-2016 04:19:58 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/public/upload.php:98
+[31-Oct-2016 04:20:28 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/public/upload/start_here.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/upload.php on line 98
+[31-Oct-2016 04:20:28 UTC] PHP Stack trace:
+[31-Oct-2016 04:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/upload.php:0
+[31-Oct-2016 04:20:28 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/public/upload.php:98
+[31-Oct-2016 04:20:28 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDB7VyG' to '/home/ubuntu/workspace/public/upload/start_here.html' in /home/ubuntu/workspace/public/upload.php on line 98
+[31-Oct-2016 04:20:28 UTC] PHP Stack trace:
+[31-Oct-2016 04:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/upload.php:0
+[31-Oct-2016 04:20:28 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/public/upload.php:98
+[31-Oct-2016 04:22:25 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/public/upload/start_here.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/upload.php on line 99
+[31-Oct-2016 04:22:25 UTC] PHP Stack trace:
+[31-Oct-2016 04:22:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/upload.php:0
+[31-Oct-2016 04:22:25 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/public/upload.php:99
+[31-Oct-2016 04:22:25 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpsL3Gh4' to '/home/ubuntu/workspace/public/upload/start_here.html' in /home/ubuntu/workspace/public/upload.php on line 99
+[31-Oct-2016 04:22:25 UTC] PHP Stack trace:
+[31-Oct-2016 04:22:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/upload.php:0
+[31-Oct-2016 04:22:25 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/public/upload.php:99
+[31-Oct-2016 04:22:36 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/public/upload/start_here.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/upload.php on line 99
+[31-Oct-2016 04:22:36 UTC] PHP Stack trace:
+[31-Oct-2016 04:22:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/upload.php:0
+[31-Oct-2016 04:22:36 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/public/upload.php:99
+[31-Oct-2016 04:22:36 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpVF2oXQ' to '/home/ubuntu/workspace/public/upload/start_here.html' in /home/ubuntu/workspace/public/upload.php on line 99
+[31-Oct-2016 04:22:36 UTC] PHP Stack trace:
+[31-Oct-2016 04:22:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/upload.php:0
+[31-Oct-2016 04:22:36 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/public/upload.php:99
+[14-Nov-2016 08:38:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'user1'@'localhost' (using password: YES) in /home/ubuntu/workspace/setup/install.php on line 55
+[14-Nov-2016 08:38:01 UTC] PHP Stack trace:
+[14-Nov-2016 08:38:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/setup/install.php:0
+[14-Nov-2016 08:38:01 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/setup/install.php:55
+[14-Nov-2016 08:38:01 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/setup/install.php on line 61
+[14-Nov-2016 08:38:01 UTC] PHP Stack trace:
+[14-Nov-2016 08:38:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/setup/install.php:0
+[14-Nov-2016 08:38:01 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/setup/install.php:61
+[14-Nov-2016 08:38:01 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/setup/install.php on line 64
+[14-Nov-2016 08:38:01 UTC] PHP Stack trace:
+[14-Nov-2016 08:38:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/setup/install.php:0
+[14-Nov-2016 08:38:01 UTC] PHP   2. mysqli_select_db() /home/ubuntu/workspace/setup/install.php:64
+[14-Nov-2016 08:38:01 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/setup/install.php on line 66
+[14-Nov-2016 08:38:01 UTC] PHP Stack trace:
+[14-Nov-2016 08:38:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/setup/install.php:0
+[14-Nov-2016 08:38:01 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/setup/install.php:66
+[14-Nov-2016 08:38:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/setup/install.php on line 100
+[14-Nov-2016 08:38:01 UTC] PHP Stack trace:
+[14-Nov-2016 08:38:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/setup/install.php:0
+[14-Nov-2016 08:38:01 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/setup/install.php:100
+[14-Nov-2016 08:38:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/setup/install.php on line 105
+[14-Nov-2016 08:38:01 UTC] PHP Stack trace:
+[14-Nov-2016 08:38:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/setup/install.php:0
+[14-Nov-2016 08:38:01 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/setup/install.php:105
+[14-Nov-2016 08:38:01 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/setup/install.php on line 107
+[14-Nov-2016 08:38:01 UTC] PHP Stack trace:
+[14-Nov-2016 08:38:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/setup/install.php:0
+[14-Nov-2016 08:38:01 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/setup/install.php:107
